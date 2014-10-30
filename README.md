@@ -21,5 +21,5 @@ The textbox can be used to filter the tweets with specific keywords that can be 
 The database used is DynamoDB. JSP and JavaScript are used for the frontend.
 
 Done by:
-Meril Dsouza - msd2178
+Meril Dsouza - msd2178, 
 Rashmi Tonge - rt2544
